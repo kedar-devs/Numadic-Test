@@ -1,0 +1,17 @@
+1)D
+TOOT
+Explaination:the next letter to s is t, o remains o,next letter to n is o and similarly s is replaced t 
+2)No clue
+3)A 
+Explaination:1st letter is replaced with third,4th with 6th and this pattern repeats so p<->i,n<->i and l<->p
+4)B
+Every letter is replaced by a letter 4 letter before it (arranged in alphabetical order), although the last word deosn't change but rest do follow this pattern
+5)C
+Every letter is replaced by a letter 2 after it (arranged in alphabetical order)
+6)
+i)No clue
+ii)127 as it is a prime no and all no in the pattern are prime no
+iii)18 as 13 might come alternatively but the other no are multiple of 3
+iV)289 as all the no in the list are squares of some number
+v) 72
+as 2+4=6,6+6=12,12+8=20,20+10=30....56+16=72
